@@ -1,11 +1,11 @@
-group,activity,value,card,url,taxonomy,explanation
-Create,Local customs and manners,0,"cards/localcustomsandmanners.png","additionalPage.html",Create,Produce new or original work
-Create,Video Analysis,0,"cards/videoanalysis.png","additionalPage.html",Evaluate,Justify or stand a decision
-Create,Group formation,0,"cards/groupformation.png","additionalPage.html",Analyze,Draw connections among ideas
-Create,Peer assessment,0,"cards/peerassessment.png","additionalPage.html",Apply,Use information in new situations
-Create,SOS Mentimeter,0,"cards/focussosmentimeter","additionalPage.html",Understand,Explain Ideas or concepts
-Create,Breakout Pitches,0,"cards/breakoutpitches.png","additionalPage.html",Remember,Recall facts or basic concepts
-Create,Open Exam,0,"cards/openexam.png","additionalPage.html",Activate,Energize your students and keep them active
+group,activity,value,card,url,taxonomy,explanation,explanationcard
+Create,Local customs and manners,0,"cards/localcustomsandmanners.png","additionalPage.html",Create,Produce new or original work,"cards/create.png"
+Create,Video Analysis,0,"cards/videoanalysis.png","additionalPage.html",Evaluate,Justify or stand a decision,"cards/evaluate.png"
+Create,Group formation,0,"cards/groupformation.png","additionalPage.html",Analyze,Draw connections among ideas,"cards/analyze.png"
+Create,Peer assessment,0,"cards/peerassessment.png","additionalPage.html",Apply,Use information in new situations,"cards/apply.png"
+Create,SOS Mentimeter,0,"cards/focussosmentimeter","additionalPage.html",Understand,Explain Ideas or concepts,"cards/understand.png"
+Create,Breakout Pitches,0,"cards/breakoutpitches.png","additionalPage.html",Remember,Recall facts or basic concepts,"cards/remember.png"
+Create,Open Exam,0,"cards/openexam.png","additionalPage.html",Activate,Energize your students and keep them active,"cards/activate.png"
 Create,Touch Blue,0,"cards/touchblue.png"
 Create,Appreciation Circle,0,"cards/appreciationcircle.png"
 Create,Flipped classroom,100,"cards/flippedclassroom.png"
