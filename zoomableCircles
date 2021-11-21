@@ -1,5 +1,5 @@
 { 
-"name": "Best Practices","color":"#f2f2f2","card":"Lea.jpg",
+"name": "Best Practices","color":"#FBFBFB","card":"Lea.jpg",
   "children": [
   { "name": "Course Structure","color":"#3E989A","description":"Description here ","card":"CourseStructure.png",
       "children": [
