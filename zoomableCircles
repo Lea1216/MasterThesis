@@ -6,10 +6,15 @@
         {"name": "Communicate In Real-Time", "size": 150, "color":"#3E989A","description":"Description here ","card":"GoldenRules.png",
         "children": [ 
          {"name": "Zoom", "size": 100, "color":"#3E989A","description":"Description here ","url":"www.google.com","card":"BeConcise.png"},
-         {"name": "Microsoft Teamm", "size": 100, "color":"#3E989A","description":"Description here ","url":"www.google.com","card":"StructureContent.png"}
+         {"name": "Microsoft Team", "size": 100, "color":"#3E989A","description":"Description here ","url":"www.google.com","card":"StructureContent.png"}
          ]
         },
-        {"name": "Communicate Asynchronously", "size": 150, "color":"#3E989A","description":"Description here ","card":"CourseDesign.png"}
+        {"name": "Communicate Asynchronously", "size": 150, "color":"#3E989A","description":"Description here ","card":"CourseDesign.png",
+        "children": [ 
+         {"name": "Slack", "size": 100, "color":"#3E989A","description":"Description here ","url":"www.google.com","card":"BeConcise.png"},
+         {"name": "Moodle Discussion Forum", "size": 100, "color":"#3E989A","description":"Description here ","url":"www.google.com","card":"StructureContent.png"}
+         ]
+        }
       ]
     },
    { "name": "Course structure","color":"#6F5B92","description":" coming soon ","card":"DigitalTools.png",
