@@ -5,7 +5,7 @@
       "children": [
         {"name": "Communicate In Real-Time", "size": 150, "color":"#3E989A","description":"Description here ","card":"GoldenRules.png",
         "children": [ 
-         {"name": "Zoom", "size": 100, "color":"#3E989A","description":"Description here ","url":"www.google.com","card":"BeConcise.png"},
+         {"name": "Zoom", "size": 100, "color":"#3E989A","url":"www.google.com","card":"BeConcise.png"},
          {"name": "Microsoft Team", "size": 100, "color":"#3E989A","description":"Description here ","url":"www.google.com","card":"StructureContent.png"}
          ]
         },
