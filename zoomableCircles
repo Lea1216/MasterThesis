@@ -30,11 +30,6 @@
         }
       ]
     },
-   { "name": "Course structure","color":"#6F5B92","description":" coming soon ","card":"DigitalTools.png",
-      "children": [
-        {"name": "Real-time Communication", "size": 150, "color":"#644380","url":"www.google.com","card":"Real-time.png"},
-        {"name": "Sharing", "size": 150, "color":"#644380","url":"www.google.com","card":"Sharing.png"}
-      ]
-    }
+   { "name": "Course structure","color":"#6F5B92","description":" coming soon ","card":"DigitalTools.png"}
   ]
 }
