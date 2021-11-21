@@ -14,6 +14,12 @@
          {"name": "Slack", "size": 100, "color":"#3E989A","url":"www.google.com","card":"BeConcise.png"},
          {"name": "Moodle Discussion Forum", "size": 100, "color":"#3E989A","url":"www.google.com","card":"StructureContent.png"}
          ]
+        },
+        {"name": "Share content", "size": 150, "color":"#3E989A","card":"CourseDesign.png",
+        "children": [ 
+         {"name": "Google Drive", "size": 100, "color":"#3E989A","url":"www.google.com","card":"BeConcise.png"},
+         {"name": "Moodle", "size": 100, "color":"#3E989A","url":"www.google.com","card":"StructureContent.png"}
+         ]
         }
       ]
     },
