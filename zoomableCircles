@@ -32,8 +32,8 @@
     },
    { "name": "Course structure","color":"#6F5B92","description":" coming soon ","card":"DigitalTools.png",
    "children": [ 
-         {"name": "Coming soon", "size": 100, "color":"#3E989A","url":"www.google.com","card":"BeConcise.png"},
-         {"name": "Coming soon", "size": 100, "color":"#3E989A","url":"www.google.com","card":"StructureContent.png"}
+         {"name": "Coming soon", "size": 100, "color":"#644380","url":"www.google.com","card":"BeConcise.png"},
+         {"name": "Coming soon", "size": 100, "color":"#644380","url":"www.google.com","card":"StructureContent.png"}
          ]
    }
   ]
