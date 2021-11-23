@@ -1,0 +1,40 @@
+{ 
+"name": "Best Practices","color":"#FBFBFB","card":"Lea.jpg",
+  "children": [
+  { "name": "Digital Tools","color":"#3E989A","card":"CourseStructure.png",
+      "children": [
+        {"name": "Communicate In Real-Time", "size": 150, "color":"#3E989A","card":"GoldenRules.png","url":"activities/freecomponent",
+        "children": [ 
+         {"name": "Zoom", "size": 100, "color":"#3E989A","url":"www.google.com","card":"BeConcise.png","url":"activities/freecomponent"},
+         {"name": "Microsoft Team", "size": 100, "color":"#3E989A","url":"www.google.com","card":"StructureContent.png","url":"activities/freecomponent"}
+         ]
+        },
+        {"name": "Communicate Asynchronously", "size": 150, "color":"#3E989A","card":"CourseDesign.png",,"url":"activities/freecomponent",
+        "children": [ 
+         {"name": "Slack", "size": 100, "color":"#3E989A","url":"www.google.com","card":"BeConcise.png","url":"activities/freecomponent"},
+         {"name": "Moodle Discussion Forum", "size": 100, "color":"#3E989A","url":"www.google.com","card":"StructureContent.png","url":"activities/freecomponent"}
+         ]
+        },
+        {"name": "Share Content", "size": 150, "color":"#3E989A","card":"CourseDesign.png",,"url":"activities/freecomponent",
+        "children": [ 
+         {"name": "Google Drive", "size": 100, "color":"#3E989A","url":"www.google.com","card":"BeConcise.png","url":"activities/freecomponent"},
+         {"name": "Moodle", "size": 100, "color":"#3E989A","url":"www.google.com","card":"StructureContent.png","url":"activities/freecomponent"}
+         ]
+        },
+        {"name": "Think Visually", "size": 150, "color":"#3E989A","card":"CourseDesign.png",,"url":"activities/freecomponent",
+        "children": [ 
+         {"name": "Miro", "size": 100, "color":"#3E989A","url":"www.google.com","card":"BeConcise.png","url":"activities/freecomponent"},
+         {"name": "Mural", "size": 100, "color":"#3E989A","url":"www.google.com","card":"StructureContent.png","url":"activities/freecomponent"},
+         {"name": "Flinga", "size": 100, "color":"#3E989A","url":"www.google.com","card":"StructureContent.png","url":"activities/freecomponent"}
+         ]
+        }
+      ]
+    },
+   { "name": "Course structure","color":"#6F5B92","description":" coming soon ","card":"DigitalTools.png","url":"activities/freecomponent",
+   "children": [ 
+         {"name": "Coming soon", "size": 100, "color":"#644380","url":"www.google.com","card":"BeConcise.png","url":"activities/freecomponent"},
+         {"name": "Coming soon", "size": 100, "color":"#644380","url":"www.google.com","card":"StructureContent.png","url":"activities/freecomponent"}
+         ]
+   }
+  ]
+}
