@@ -11,7 +11,7 @@
         },
         {"name": "Communicate Asynchronously", "size": 150, "color":"#3E989A","card":"cards/asynchronously.png","url":"activities/freecomponent",
         "children": [ 
-         {"name": "Slack", "size": 100, "color":"#3E989A","card":"cards/slack","url":"activities/freecomponent"},
+         {"name": "Slack", "size": 100, "color":"#3E989A","card":"cards/slack.png","url":"activities/freecomponent"},
          {"name": "Discussion Forum", "size": 100, "color":"#3E989A","card":"cards/discussionforum.png","url":"activities/freecomponent"}
          ]
         },
