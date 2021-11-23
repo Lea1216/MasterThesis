@@ -12,13 +12,13 @@
         {"name": "Communicate Asynchronously", "size": 150, "color":"#3E989A","card":"cards/asynchronously.png","url":"activities/freecomponent",
         "children": [ 
          {"name": "Slack", "size": 100, "color":"#3E989A","card":"cards/slack","url":"activities/freecomponent"},
-         {"name": "Moodle Discussion Forum", "size": 100, "color":"#3E989A","card":"cards/slack.png","url":"activities/freecomponent"}
+         {"name": "Discussion Forum", "size": 100, "color":"#3E989A","card":"cards/discussionforum.png","url":"activities/freecomponent"}
          ]
         },
-        {"name": "Share Content", "size": 150, "color":"#3E989A","card":"cards/sharing.png","url":"activities/freecomponent",
+        {"name": "Share Content", "size": 150, "color":"#3E989A","card":"cards/sharecontent.png","url":"activities/freecomponent",
         "children": [ 
          {"name": "Google Drive", "size": 100, "color":"#3E989A","card":"cards/googledrive.png","url":"activities/freecomponent"},
-         {"name": "Moodle", "size": 100, "color":"#3E989A","card":"StructureContent.png","url":"activities/freecomponent"}
+         {"name": "Drop Box", "size": 100, "color":"#3E989A","card":"dropbox.png","url":"activities/freecomponent"}
          ]
         },
         {"name": "Think Visually", "size": 150, "color":"#3E989A","card":"cards/thinkvisually.png","url":"activities/freecomponent",
