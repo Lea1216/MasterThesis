@@ -1,39 +1,39 @@
 { 
 "name": "Best Practices","color":"#FBFBFB","card":"Lea.jpg",
   "children": [
-  { "name": "Digital Tools","color":"#3E989A","card":"CourseStructure.png",
+  { "name": "Digital Tools","color":"#3E989A","card":"cards/digitaltools.png",
       "children": [
-        {"name": "Communicate In Real-Time", "size": 150, "color":"#3E989A","card":"GoldenRules.png",
+        {"name": "Communicate In Real-Time", "size": 150, "color":"#3E989A","card":"cards/realtime.png",
         "children": [ 
-         {"name": "Zoom", "size": 100, "color":"#3E989A","url":"www.google.com","card":"BeConcise.png"},
-         {"name": "Microsoft Team", "size": 100, "color":"#3E989A","url":"www.google.com","card":"StructureContent.png"}
+         {"name": "Zoom", "size": 100, "color":"#3E989A","card":"cards/zoom.png","url":"tools/zoom.html"},
+         {"name": "Microsoft Team", "size": 100, "color":"#3E989A","card":"cards/microsoftteams.png","url":"tools/zoom.html"}
          ]
         },
-        {"name": "Communicate Asynchronously", "size": 150, "color":"#3E989A","card":"CourseDesign.png",
+        {"name": "Communicate Asynchronously", "size": 150, "color":"#3E989A","card":"cards/asynchronously.png","url":"tools/zoom.html",
         "children": [ 
-         {"name": "Slack", "size": 100, "color":"#3E989A","url":"www.google.com","card":"BeConcise.png"},
-         {"name": "Moodle Discussion Forum", "size": 100, "color":"#3E989A","url":"www.google.com","card":"StructureContent.png"}
+         {"name": "Slack", "size": 100, "color":"#3E989A","card":"cards/slack.png","url":"tools/zoom.html"},
+         {"name": "Discussion Forum", "size": 100, "color":"#3E989A","card":"cards/discussionforum.png","url":"tools/zoom.html"}
          ]
         },
-        {"name": "Share Content", "size": 150, "color":"#3E989A","card":"CourseDesign.png",
+        {"name": "Share Content", "size": 150, "color":"#3E989A","card":"cards/sharecontent.png",
         "children": [ 
-         {"name": "Google Drive", "size": 100, "color":"#3E989A","url":"www.google.com","card":"BeConcise.png"},
-         {"name": "Moodle", "size": 100, "color":"#3E989A","url":"www.google.com","card":"StructureContent.png"}
+         {"name": "Google Drive", "size": 100, "color":"#3E989A","card":"cards/googledrive.png","url":"tools/zoom.html"},
+         {"name": "Drop Box", "size": 100, "color":"#3E989A","card":"cards/dropbox.png","url":"tools/zoom.html"}
          ]
         },
-        {"name": "Think Visually", "size": 150, "color":"#3E989A","card":"CourseDesign.png",
+        {"name": "Think Visually", "size": 150, "color":"#3E989A","card":"cards/thinkvisually.png",
         "children": [ 
-         {"name": "Miro", "size": 100, "color":"#3E989A","url":"www.google.com","card":"BeConcise.png"},
-         {"name": "Mural", "size": 100, "color":"#3E989A","url":"www.google.com","card":"StructureContent.png"},
-         {"name": "Flinga", "size": 100, "color":"#3E989A","url":"www.google.com","card":"StructureContent.png"}
+         {"name": "Miro", "size": 100, "color":"#3E989A","card":"cards/miro.png","url":"tools/zoom.html"},
+         {"name": "Mural", "size": 100, "color":"#3E989A","card":"cards/mural.png","url":"tools/zoom.html"},
+         {"name": "Flinga", "size": 100, "color":"#3E989A","card":"cards/flinga.png","url":"tools/zoom.html"}
          ]
         }
       ]
     },
-   { "name": "Course structure","color":"#6F5B92","description":" coming soon ","card":"DigitalTools.png",
+   { "name": "Course structure","color":"#6F5B92","description":" coming soon ","card":"cards/coursestructure.png",
    "children": [ 
-         {"name": "Coming soon", "size": 100, "color":"#644380","url":"www.google.com","card":"BeConcise.png"},
-         {"name": "Coming soon", "size": 100, "color":"#644380","url":"www.google.com","card":"StructureContent.png"}
+         {"name": "Coming soon", "size": 100, "color":"#644380","card":"cards/coursestructure.png","url":"tools/zoom.html"},
+         {"name": "Coming soon", "size": 100, "color":"#644380","card":"cards/coursestructure.png","url":"tools/zoom.html"}
          ]
    }
   ]
