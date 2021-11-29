@@ -18,7 +18,7 @@
         {"name": "Share Content", "size": 150, "color":"#3E989A","card":"cards/sharecontent.png",
         "children": [ 
          {"name": "Google Drive", "size": 100, "color":"#3E989A","card":"cards/googledrive.png","url":"tools/zoom.html"},
-         {"name": "Drop Box", "size": 100, "color":"#3E989A","card":"cards/dropbox.png","url":"tools/zoom.html"}
+         {"name": "Dropbox", "size": 100, "color":"#3E989A","card":"cards/dropbox.png","url":"tools/zoom.html"}
          ]
         },
         {"name": "Think Visually", "size": 150, "color":"#3E989A","card":"cards/thinkvisually.png",
